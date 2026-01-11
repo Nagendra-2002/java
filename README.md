@@ -1,6 +1,3 @@
-
-
-
 Creating readme 
 Completed
 
